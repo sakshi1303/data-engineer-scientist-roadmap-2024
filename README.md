@@ -17,7 +17,24 @@ Note: Use :white_large_square for pending tasks and :white_check_mark for comple
 
 ## SQL
 
+### Phase 1
+
+1. LEFT JOIN With Nulls
+2. Self Joins
+3. Analytical functions
+4. CASE statements in WHERE, GROUP BY clauses
+
+### Phase 2
+5. Recursive functions
+6. ANY/ALL etc.
+7. DataWarehousing Concepts
+
+### Phase 3
+8. All questions asked till date in Amazon and other interviews.
+
 ## Python
+
+
 
 ## Redshift
 
