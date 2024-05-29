@@ -1,6 +1,6 @@
 # data-engineer-scientist-roadmap-2024
 
-!!!! Progress not perfection
+!!!! Progress not perfection.
 
 This repository contains roadmap for Data Engineering and Science skill upgradation roadmap with study materials and status updates.
 
@@ -56,10 +56,12 @@ Note: Use :white_large_square for pending tasks and :white_check_mark for comple
 ### Phase1
 1. :white_large_square: Redshift architecture - What is RA3 ?
 2. :white_large_square: Sort Keys and Distribute keys
+3. :white_large_square: Understand Explain plan for a query with SELECT, WHERE, JOIN, GROUP BY , HAVING , DENSE RANK.
 
 ### Phase2
 3. :white_large_square: Data loading and unloading in Redshift
 4. :white_large_square: WLM queue
+5. :white_large_square: Perform VACUUM and ANALYZE operations to maintain table performance.
 
 ### Phase3
 5. :white_large_square: Spectrum
@@ -72,7 +74,7 @@ Note: Use :white_large_square for pending tasks and :white_check_mark for comple
 2. :white_large_square: Create Glue Crawler on S3 Datasets
 
 ### Phase2
-3. <TBD>
+3. 
 
 ### Phase3
 4. <TBD>
