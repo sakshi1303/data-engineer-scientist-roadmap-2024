@@ -95,10 +95,31 @@ Note: Use :white_large_square for pending tasks and :white_check_mark for comple
 1. Understand Memory management
 
 ## Machine Learning
+### Phase1
+1. Implement one supervised Learning method using Sagemaker
+2. Implemen one unsupervised Learning method using Sagemaker.
+
+### Phase2
+1. Implement end to end machine learning model by taking S3 as both input and output.
+
+### Phase3
+1. Deploying ML models in production
+2. Continuous integration and delivery for ML
 
 ## Deep Learning
+### Phase1
+1. Implement text classification in AWS
+
+### Phase2
+1. Implement image classification in AWS
 
 ## GenAI
+<TBD>
 
 ## DSA
+### Phase1
+1. How to implement trees and graphs in Python ?
+2. Implement and Learn 3 sorting algorithms
 
+### Phase2
+1. Implement 10 algorithms on Leetcode using Python
