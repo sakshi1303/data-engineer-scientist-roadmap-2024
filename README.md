@@ -13,7 +13,7 @@ This repository contains roadmap for Data Engineering and Science skill upgradat
 | GenAI            | :white_large_square: |:white_large_square:|:white_large_square:|
 | DSA              | :white_large_square: |:white_large_square:|:white_large_square:|
 
-
+Note: Use :white_large_square for pending tasks and :white_check_mark for completed tasks.
 
 ## SQL
 
