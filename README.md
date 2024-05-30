@@ -74,7 +74,7 @@ Note: Use :white_large_square for pending tasks and :white_check_mark for comple
 2. :white_large_square: Create Glue Crawler on S3 Datasets
 
 ### Phase2
-3. 
+3. Use Glue ETL to schedule a pipeline to read from S3 dataset, apply transformation and dump dataset into another S3 bucket as soon as former S3 bucket is populated.
 
 ### Phase3
 4. <TBD>
